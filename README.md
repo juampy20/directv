@@ -43,3 +43,9 @@ https://dtvott-abc.akamaized.net/dash_live_1066/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg", directv sports
 https://1061-vos.dtvott.com/DASH/manifest.mpd
 
+
+
+
+
+#EXTINF:-1 tvg-logo="-" group-title="arg", telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
