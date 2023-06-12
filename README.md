@@ -93,9 +93,9 @@ https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=06b3adfba9845c7c924704fd8b8dcd64:dccb2ff104df0bbc54de06b3c2786f5c
-#EXTINF:-1 tvg-logo="-" group-title="arg", espn 2
-https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=1743cd7101c73e2983ba928fbfcec307:cf38d2027de3affce951afcbd583458d
+#EXTINF:-1 tvg-logo="-" group-title="arg", tnt sports ch
+https://1231-vos.dtvott.com/DASH/manifest.mpd
 
 
 
