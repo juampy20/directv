@@ -150,7 +150,15 @@ https://dtvott-abc.akamaized.net/dash_live_1065/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg", quiero musica
 https://dtvott-abc.akamaized.net/dash_live_1183/manifest.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06545fb66e7d5ea38362bc2cefb0cace:4f437f342ea9f6eb1169b5ca46261655
+#EXTINF:-1 tvg-logo="-" group-title="arg", glitz
+https://dtvott-cbc.akamaized.net/dash_live_1132/manifest.mpd
 
 
 
