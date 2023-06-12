@@ -227,5 +227,37 @@ https://dtvott-abc.akamaized.net/dash_live_1238/manifest.mpd
 
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3267fd32de1b52609ff6505dd67d320b:b28bdc1c46090b860a8bcdc1cdc95a97
+#EXTINF:-1 tvg-logo="-" group-title="arg", lifetime
+https://dtvott-abc.akamaized.net/dash_live_1159/manifest.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fad9eaf7a980300686af7809c0377a00:0d270d4c1ef2a319aeaf2f424e9b1442
+#EXTINF:-1 tvg-logo="-" group-title="arg", RCN
+https://1185-vos.dtvott.com/DASH/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
 
 
