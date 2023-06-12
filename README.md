@@ -204,6 +204,15 @@ https://1058-vos.dtvott.com/DASH/manifest.mpd
 https://1062-vos.dtvott.com/DASH/manifest.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ac8dd7d48545bc881091ee1bbecaf42:9787ea06df2f063245bbda4a738e51cc
+#EXTINF:-1 tvg-logo="-" group-title="arg", directv go
+https://dtvott-abc.akamaized.net/dash_live_1066/manifest.mpd
 
 
 
