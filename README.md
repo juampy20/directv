@@ -328,10 +328,26 @@ https://1106-vos.dtvott.com/DASH/manifest.mpd
 https://dtvott-akaws.akamaized.net/live_1251/DASH/manifest.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3303b4c6982f381ea9e309009fbb3f27:a7fd49808f890c2500bf2180aaf42307
+#EXTINF:-1 tvg-logo="-" group-title="arg",gol tv
+https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5804b7a24ca1303d8511b6d49278610c:fc0a63fd4fb80fd67ad25646857082f5
+#EXTINF:-1 tvg-logo="-" group-title="arg", fox sport 1
+https://1117-vos.dtvott.com/DASH/manifest.mpd
 
 
 
