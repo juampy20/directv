@@ -18,7 +18,7 @@ https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb0ecaa6ae62336197c64d4129c6a09d:cb0bba4522ffcd90a8b51541a0fcfae0
-#EXTINF:-1 tvg-logo="-" group-title="arg", derectv sports
+#EXTINF:-1 tvg-logo="-" group-title="arg", directv sports
 https://1057-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -44,8 +44,19 @@ https://dtvott-abc.akamaized.net/dash_live_1066/manifest.mpd
 https://1061-vos.dtvott.com/DASH/manifest.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2901c41dbfc85aa6a26db29cc56bc2c6:9e1d0809b5e966987deaed55fd2631ad
+#EXTINF:-1 tvg-logo="-" group-title="arg", fox sports 3
+https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="-" group-title="arg", telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+
+
+
