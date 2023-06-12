@@ -283,7 +283,24 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fa59463176f3dc2964b91b4f7ae1d7c:81d5b95cc9057d6b0f85c78e6f0e41e7
+#EXTINF:-1 tvg-logo="-" group-title="arg", D sports
+https://1059-vos.dtvott.com/DASH/manifest.mpd
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06997340922035bf8bbdb05ccad59aac:e54951d9df22a73a8ab2d951c67ca260
+#EXTINF:-1 tvg-logo="-" group-title="arg", W Sports
+https://1245-vos.dtvott.com/DASH/manifest.mpd
 
