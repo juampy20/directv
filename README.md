@@ -108,6 +108,15 @@ https://1231-vos.dtvott.com/DASH/manifest.mpd
 https://dtvott-cbc.akamaized.net/dash_live_1020/manifest.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c55ed8f82e5924b22d00ce154ae849:fdea8ee702bd5262cb6a2901dc37e7b0
+#EXTINF:-1 tvg-logo="-" group-title="arg", tele vivo
+https://dtvott-abc.akamaized.net/dash_live_1215/manifest.mpd
 
 
 
