@@ -182,11 +182,26 @@ https://1011-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg", mas chic
 https://1007-vos.dtvott.com/DASH/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa8796510bf0357d9fc39bd81bbfca18:ea7138d07009dff7ebe6e2fedcebf660
+#EXTINF:-1 tvg-logo="-" group-title="arg", directv sp
+https://1058-vos.dtvott.com/DASH/manifest.mpd
 
 
-
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=409459dd892532a0ae99947bd46b4e48:9e5a06e2803b02a6006d8c19d4738a35
+#EXTINF:-1 tvg-logo="-" group-title="arg", directv sport
+https://1062-vos.dtvott.com/DASH/manifest.mpd
 
 
 
