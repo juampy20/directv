@@ -162,6 +162,15 @@ https://dtvott-cbc.akamaized.net/dash_live_1132/manifest.mpd
 
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9fc5a15382b35818904ecbeed545fd0:8b4d83e2c382780ca615ce6cd6754d79
+#EXTINF:-1 tvg-logo="-" group-title="arg", america peru
+https://1011-vos.dtvott.com/DASH/manifest.mpd
 
 
 
