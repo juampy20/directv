@@ -172,7 +172,15 @@ https://dtvott-cbc.akamaized.net/dash_live_1132/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg", america peru
 https://1011-vos.dtvott.com/DASH/manifest.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ff7f7bd977b33189108629f0effaa4b:211e132997cd8646eedf3d1bfe00696a
+#EXTINF:-1 tvg-logo="-" group-title="arg", mas chic
+https://1007-vos.dtvott.com/DASH/manifest.mpd
 
 
 
