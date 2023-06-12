@@ -304,3 +304,39 @@ https://1059-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg", W Sports
 https://1245-vos.dtvott.com/DASH/manifest.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2444f7f19b29352eb6d1c7f9d8f71d59:027fc4f3b6275111c0c8b5ae84933ea8
+#EXTINF:-1 tvg-logo="-" group-title="arg", espn c
+https://1106-vos.dtvott.com/DASH/manifest.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34d62b22efc63f659eac5ba82289882d:696de7a82257ddb51ed3fdec04b6ec8b
+#EXTINF:-1 tvg-logo="-" group-title="arg", win +
+https://dtvott-akaws.akamaized.net/live_1251/DASH/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
