@@ -129,5 +129,13 @@ https://dtvott-abc.akamaized.net/dash_live_1215/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg", espn
 https://1108-vos.dtvott.com/DASH/manifest.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d677a19db3a05a019d8683b9250cbc0f:e2756e96d7d9d63729b645a6139cb513
+#EXTINF:-1 tvg-logo="-" group-title="arg", directv fight
+https://dtvott-abc.akamaized.net/dash_live_1065/manifest.mpd
 
