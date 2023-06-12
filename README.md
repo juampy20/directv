@@ -261,6 +261,15 @@ https://1185-vos.dtvott.com/DASH/manifest.mpd
 https://1063-vos.dtvott.com/DASH/manifest.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
+#EXTINF:-1 tvg-logo="-" group-title="arg", directv sports +
+https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 
 
