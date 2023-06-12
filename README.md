@@ -65,6 +65,22 @@ https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg", win sports
 https://1250-vos.dtvott.com/DASH/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f195c02916303b2691090ca545933afb:774d7a8fae5e6bde902c5b33bc33ce01
+#EXTINF:-1 tvg-logo="-" group-title="arg", win sports
+https://1250-vos.dtvott.com/DASH/manifest.mpd
 
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=457942dd5b773c8cafad4f486867cde4:d5a09694df94467f59aa46e24537d216
+#EXTINF:-1 tvg-logo="-" group-title="arg", espn extra
+https://1261-vos.dtvott.com/DASH/manifest.mpd
