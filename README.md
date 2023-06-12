@@ -94,10 +94,18 @@ https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1743cd7101c73e2983ba928fbfcec307:cf38d2027de3affce951afcbd583458d
-#EXTINF:-1 tvg-logo="-" group-title="arg", tnt sports ch
+#EXTINF:-1 tvg-logo="-" group-title="arg", tnt sports 3
 https://1231-vos.dtvott.com/DASH/manifest.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c31b0347138f5fa49a2886c34b7a9325:a28265bfc14a10d6dbd6a85516cbde18
+#EXTINF:-1 tvg-logo="-" group-title="arg", cinema
+https://dtvott-cbc.akamaized.net/dash_live_1020/manifest.mpd
 
 
 
