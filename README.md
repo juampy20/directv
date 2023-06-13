@@ -544,11 +544,26 @@ https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
 https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b363e35a5075589983fec4e2f74f90b9:8f7c53bfe02df34d253eb61e7d01ae79
+#EXTINF:-1 tvg-logo="-" group-title="arg", tn todonoticias
+https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
 
 
-
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd16d3dc021e31369f1df0ce68f0a4f3:3b872c2fbf3c4c7e6a77f126b8ebdc92
+#EXTINF:-1 tvg-logo="-" group-title="arg", atv hd
+https://1016-vos.dtvott.com/DASH/manifest.mpd
 
 
 
