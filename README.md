@@ -521,10 +521,27 @@ https://1017-vos.dtvott.com/DASH/manifest.mpd
 https://dtvott-abc.akamaized.net/dash_live_1033/manifest.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe49940345dd5e40be8f6c163a088aff:464172bbc422938df76633bf3a8a2b54
+#EXTINF:-1 tvg-logo="-" group-title="arg", hbo
+https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
 
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40b7d6c428f453498bb8efd1ea9f4b87:9410baaf249ff8f0cd6dced01ecf2f5d
+#EXTINF:-1 tvg-logo="-" group-title="arg", la nacion
+https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
 
 
 
