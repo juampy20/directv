@@ -566,7 +566,26 @@ https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
 https://1016-vos.dtvott.com/DASH/manifest.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61cfa2802e325638b4f41f3fa3bdfdef:39084184ebf86749b3a77bc4bef30926
+#EXTINF:-1 tvg-logo="-" group-title="arg", tv +
+https://dtvott-abc.akamaized.net/dash_live_1236/manifest.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da387c2d89b637b7b861244e64a98d47:aa3fa06bc364309b671f3218b800adff
+#EXTINF:-1 tvg-logo="-" group-title="arg", espn 
+https://1104-vos.dtvott.com/DASH/manifest.mpd
 
 
 
