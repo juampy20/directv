@@ -660,6 +660,14 @@ https://dtvott-abc.akamaized.net/dash_live_1175/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg",universal
 https://dtvott-abc.akamaized.net/dash_live_1243/manifest.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f65c4f0c8235c57a46085cc7a779432:8f1f2a95762a3025a30bd14a53d742cb
+#EXTINF:-1 tvg-logo="-" group-title="arg",ciudad magazine
+https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
 
 
