@@ -510,3 +510,31 @@ https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 https://1017-vos.dtvott.com/DASH/manifest.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee2c412551525952804c0a9acbaddd53:bbd0a11709bcc3accf5f8fb85881cfc6
+#EXTINF:-1 tvg-logo="-" group-title="arg", canal(a)
+https://dtvott-abc.akamaized.net/dash_live_1033/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
