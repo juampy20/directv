@@ -445,7 +445,15 @@ https://1246-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg",tv publica
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00a775d1b96b5951b3c3ab5799f9868e:3a56df0047dd709388c606f9ff2fbadd
+#EXTINF:-1 tvg-logo="-" group-title="arg",deportv
+https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd
 
 
 
