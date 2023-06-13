@@ -618,3 +618,30 @@ https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg", discovery kids
 https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a07d8bfe2f9956f28ca11466b4f520d5:11fdd8900d1eba9a6c95551f418dbf07
+#EXTINF:-1 tvg-logo="-" group-title="arg", disney Jr
+https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d0c49778bc451d2b5ea44346e72a85d:d5d5ed40788e07eaf3b0616b6abc9e1e
+#EXTINF:-1 tvg-logo="-" group-title="arg", disney 
+https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
+
+
+
+
+
+
