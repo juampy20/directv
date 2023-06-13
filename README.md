@@ -588,4 +588,33 @@ https://dtvott-abc.akamaized.net/dash_live_1236/manifest.mpd
 https://1104-vos.dtvott.com/DASH/manifest.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78a2c02489da5d5aa2c5254dc8357690:2d26cfbc205d6be3c810039868f41ae6
+#EXTINF:-1 tvg-logo="-" group-title="arg", el nueve
+https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eec60466074155c0b124e1121890bae2:00d7b5c38f7a9e196768ac6f4583eb45
+#EXTINF:-1 tvg-logo="-" group-title="arg", europa
+https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3b91f95dc9152ce8fa34a7fed103b70:694eb12c6ca401b454bd742c374a50c0
+#EXTINF:-1 tvg-logo="-" group-title="arg", discovery kids
+https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
 
