@@ -640,7 +640,25 @@ https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg", disney 
 https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfcaedf675745b9c81e5a55bde8f530b:240ec219dd71670750f37afe83fead16
+#EXTINF:-1 tvg-logo="-" group-title="arg", nikelodeon
+https://dtvott-abc.akamaized.net/dash_live_1175/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a2cfe6f84f5573c82277af6ceb23c51:6f72430eef6b803f2b266da1f4eadc9a
+#EXTINF:-1 tvg-logo="-" group-title="arg",universal
+https://dtvott-abc.akamaized.net/dash_live_1243/manifest.mpd
 
 
 
