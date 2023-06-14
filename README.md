@@ -335,7 +335,7 @@ https://dtvott-akaws.akamaized.net/live_1251/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3303b4c6982f381ea9e309009fbb3f27:a7fd49808f890c2500bf2180aaf42307
-#EXTINF:-1 tvg-logo="-" group-title="arg",gol tv
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/GolTV.png" group-title="arg",gol tv
 https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 
@@ -346,7 +346,7 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5804b7a24ca1303d8511b6d49278610c:fc0a63fd4fb80fd67ad25646857082f5
-#EXTINF:-1 tvg-logo="-" group-title="arg", fox sport 1
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports.png" group-title="arg", fox sport 1
 https://1117-vos.dtvott.com/DASH/manifest.mpd
 
 
@@ -358,7 +358,7 @@ https://1117-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4cb49df341423cb597bf3e79b78f2a52:11ad69d2c84f41dbb520abfe38b19fe7
-#EXTINF:-1 tvg-logo="-" group-title="arg", espn premium
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPNPremium.png" group-title="arg", espn premium
 https://1125-vos.dtvott.com/DASH/manifest.mpd
 
 
@@ -369,7 +369,7 @@ https://1125-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d45b79d4487343589058ab49ddf8cf0:aa7f95f71a3cfe40aa59904f9285af72
-#EXTINF:-1 tvg-logo="-" group-title="arg", tyc sports
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TyC_Sports.png" group-title="arg", tyc sports
 https://1240-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -379,7 +379,7 @@ https://1240-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76be81041e7133a38457f097d2b0041c:8ced846c9effd56d7e2a9276224bb3c5
-#EXTINF:-1 tvg-logo="-" group-title="arg", fox sports
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports.png" group-title="arg", fox sports
 https://1118-vos.dtvott.com/DASH/manifest.mpd
 
 
@@ -390,7 +390,7 @@ https://1118-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b9984dc66b259fe8ae597cb4fc1f4c3:fdbbf5a39109349d7b6a997e83fb9e4b
-#EXTINF:-1 tvg-logo="-" group-title="arg", tnt sports hd ch
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TNT_Sports_Ch.png" group-title="arg", tnt sports hd ch
 https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd
 
 
@@ -412,7 +412,7 @@ https://1157-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=933de8e915535ae18c2558a5a76318c9:e1fc1eed4eae83e0dc1b3705cb62ca64
-#EXTINF:-1 tvg-logo="-" group-title="arg", espn 2
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_2.png" group-title="arg", espn 2
 https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -422,7 +422,7 @@ https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f91c485f605b337cab75d446604d5dfc:933c006497039ce8b345d53a1131d8c4
-#EXTINF:-1 tvg-logo="-" group-title="arg", espn 3
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_3.png" group-title="arg", espn 3
 https://1103-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -442,7 +442,7 @@ https://1246-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f789ebbb6495578b42267b650574f62:0b37b263a0aca7b08f12014b2b7b9248
-#EXTINF:-1 tvg-logo="-" group-title="arg",tv publica
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/1200px-TVP_-_Television_Publica_2021.svg_-e1632236378785.png" group-title="arg",tv publica
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -452,7 +452,7 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00a775d1b96b5951b3c3ab5799f9868e:3a56df0047dd709388c606f9ff2fbadd
-#EXTINF:-1 tvg-logo="-" group-title="arg",deportv
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/DeporTV-e1632251444567.png" group-title="arg",deportv
 https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd
 
 
@@ -463,7 +463,7 @@ https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bfe0b4ea79d63f3ca8370f9465ad853a:6bf0a6db3672e1d1ebe22e494156ff5d
-#EXTINF:-1 tvg-logo="-" group-title="arg",espn f
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="arg",espn f
 https://1098-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -473,7 +473,7 @@ https://1098-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf68b40ab9c258598b73204509ab860d:f12a67c00d4ef28955072aec316a26f0
-#EXTINF:-1 tvg-logo="-" group-title="arg",espn 3
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_3.png" group-title="arg",espn 3
 https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
 
 
@@ -484,7 +484,7 @@ https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d14fca550adb5b75bb34f0c42aa281dd:6f76634b14e243f1bcee1c5fcd8a393c
-#EXTINF:-1 tvg-logo="-" group-title="arg", america tv
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/America_TV_Nuevo_logo_Junio_2020-e1632236317216.png" group-title="arg", america tv
 https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
 
 
@@ -495,7 +495,7 @@ https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27965a5e47515c52af970def8230142c:b2f163b93028a4c325c0d8f7f1b29e25
-#EXTINF:-1 tvg-logo="-" group-title="arg", el trece
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/El_Trece.png" group-title="arg", el trece
 https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 
 
@@ -551,7 +551,7 @@ https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b363e35a5075589983fec4e2f74f90b9:8f7c53bfe02df34d253eb61e7d01ae79
-#EXTINF:-1 tvg-logo="-" group-title="arg", tn todonoticias
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TN.png" group-title="arg", tn todonoticias
 https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
 
 
@@ -584,7 +584,7 @@ https://dtvott-abc.akamaized.net/dash_live_1236/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=da387c2d89b637b7b861244e64a98d47:aa3fa06bc364309b671f3218b800adff
-#EXTINF:-1 tvg-logo="-" group-title="arg", espn 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="arg", espn 
 https://1104-vos.dtvott.com/DASH/manifest.mpd
 
 
@@ -595,7 +595,7 @@ https://1104-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78a2c02489da5d5aa2c5254dc8357690:2d26cfbc205d6be3c810039868f41ae6
-#EXTINF:-1 tvg-logo="-" group-title="arg", el nueve
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_9.png" group-title="arg", el nueve
 https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
