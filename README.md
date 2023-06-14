@@ -94,7 +94,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1743cd7101c73e2983ba928fbfcec307:cf38d2027de3affce951afcbd583458d
-#EXTINF:-1 tvg-logo="-" group-title="arg", tnt sports 3
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TNT_Sports_Ch.png" group-title="arg", tnt sports ch
 https://1231-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -126,7 +126,7 @@ https://dtvott-abc.akamaized.net/dash_live_1215/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=591cdbc97034330b849614a6efbfdfd4:d664407707d260f93908121d84df4eba
-#EXTINF:-1 tvg-logo="-" group-title="arg", espn
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="arg", Espn
 https://1108-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -136,7 +136,7 @@ https://1108-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d677a19db3a05a019d8683b9250cbc0f:e2756e96d7d9d63729b645a6139cb513
-#EXTINF:-1 tvg-logo="-" group-title="arg", directv fight
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/DSports.png" group-title="arg", directv fight
 https://dtvott-abc.akamaized.net/dash_live_1065/manifest.mpd
 
 
@@ -189,7 +189,7 @@ https://1007-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa8796510bf0357d9fc39bd81bbfca18:ea7138d07009dff7ebe6e2fedcebf660
-#EXTINF:-1 tvg-logo="-" group-title="arg", directv sp
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/DSports.png" group-title="arg", directv sp
 https://1058-vos.dtvott.com/DASH/manifest.mpd
 
 
@@ -200,7 +200,7 @@ https://1058-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=409459dd892532a0ae99947bd46b4e48:9e5a06e2803b02a6006d8c19d4738a35
-#EXTINF:-1 tvg-logo="-" group-title="arg", directv sport
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/DSports.png" group-title="arg", directv sport
 https://1062-vos.dtvott.com/DASH/manifest.mpd
 
 
@@ -211,7 +211,7 @@ https://1062-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ac8dd7d48545bc881091ee1bbecaf42:9787ea06df2f063245bbda4a738e51cc
-#EXTINF:-1 tvg-logo="-" group-title="arg", directv go
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/DSports.png" group-title="arg", directv go
 https://dtvott-abc.akamaized.net/dash_live_1066/manifest.mpd
 
 
@@ -257,7 +257,7 @@ https://1185-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab020a1710d630168de21698375a439c:235898cdb10b0cdba35ea2ce94fbb1fb
-#EXTINF:-1 tvg-logo="-" group-title="arg", directv sports 2
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/DSports.png" group-title="arg", directv sports 2
 https://1063-vos.dtvott.com/DASH/manifest.mpd
 
 
@@ -268,7 +268,7 @@ https://1063-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
-#EXTINF:-1 tvg-logo="-" group-title="arg", directv sports +
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/DSports.png" group-title="arg", directv sports +
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 
@@ -279,7 +279,7 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4697bf458da52f8b96b36cce761d571:a4dee77615279c858b19e5bb69ab6755
-#EXTINF:-1 tvg-logo="-" group-title="arg", tnt sports
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TNT_Sports.png" group-title="arg", tnt sports
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
 
@@ -290,7 +290,7 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fa59463176f3dc2964b91b4f7ae1d7c:81d5b95cc9057d6b0f85c78e6f0e41e7
-#EXTINF:-1 tvg-logo="-" group-title="arg", D sports
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/DSports.png" group-title="arg", D sports
 https://1059-vos.dtvott.com/DASH/manifest.mpd
 
 
@@ -301,7 +301,7 @@ https://1059-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06997340922035bf8bbdb05ccad59aac:e54951d9df22a73a8ab2d951c67ca260
-#EXTINF:-1 tvg-logo="-" group-title="arg", W Sports
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/winsports.png" group-title="arg", W Sports
 https://1245-vos.dtvott.com/DASH/manifest.mpd
 
 
@@ -312,7 +312,7 @@ https://1245-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2444f7f19b29352eb6d1c7f9d8f71d59:027fc4f3b6275111c0c8b5ae84933ea8
-#EXTINF:-1 tvg-logo="-" group-title="arg", espn c
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="arg", espn c
 https://1106-vos.dtvott.com/DASH/manifest.mpd
 
 
@@ -324,7 +324,7 @@ https://1106-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34d62b22efc63f659eac5ba82289882d:696de7a82257ddb51ed3fdec04b6ec8b
-#EXTINF:-1 tvg-logo="-" group-title="arg", win +
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/winsportspremium.png" group-title="arg", win +
 https://dtvott-akaws.akamaized.net/live_1251/DASH/manifest.mpd
 
 
