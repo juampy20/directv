@@ -8,7 +8,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d83e2e0cb9735bea9fc9f0b90cea1e14:4125e40800a08bbc66cf27756a5ab283
-#EXTINF:-1 tvg-logo="-" group-title="arg", telefe
+#EXTINF:-1 tvg-logo="-" group-title="arg", Telefe
 https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -18,7 +18,7 @@ https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb0ecaa6ae62336197c64d4129c6a09d:cb0bba4522ffcd90a8b51541a0fcfae0
-#EXTINF:-1 tvg-logo="-" group-title="arg", directv sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" group-title="arg", Directv Sports
 https://1057-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -28,7 +28,7 @@ https://1057-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ac8dd7d48545bc881091ee1bbecaf42:9787ea06df2f063245bbda4a738e51cc
-#EXTINF:-1 tvg-logo="-" group-title="arg", directv sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" group-title="arg", Directv Sports A
 https://dtvott-abc.akamaized.net/dash_live_1066/manifest.mpd
 
 
@@ -40,7 +40,7 @@ https://dtvott-abc.akamaized.net/dash_live_1066/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fb64d11355338b3bdf8b182d28eba1f:bfc4e9f3e355b82e11fc5ddfd313c3f2
-#EXTINF:-1 tvg-logo="-" group-title="arg", directv sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" group-title="arg", Directv Sports B
 https://1061-vos.dtvott.com/DASH/manifest.mpd
 
 
