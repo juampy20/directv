@@ -670,4 +670,24 @@ https://dtvott-abc.akamaized.net/dash_live_1243/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg",ciudad magazine
 https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98bf1d510cb45145942e5d4c1d5f211d:d6d518949cf734c3e03328dda5b45966
+#EXTINF:-1 tvg-logo="-" group-title="arg",history 2
+https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c38d9310d3c5b46a37a39bbec6dd68a:f4333dfb0e708ec9865b9a6ff2a8e068
+#EXTINF:-1 tvg-logo="-" group-title="arg",star chanell
+https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
 
