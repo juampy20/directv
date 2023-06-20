@@ -713,8 +713,25 @@ https://1093-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg",food network
 https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e3ed8800f9058b5af7483081e7f7f55:58ac794f6eaa45fbf3197871f4b33aea
+#EXTINF:-1 tvg-logo="-" group-title="arg",nat geo
+https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63bb90afe7a55cabb01fcac205353b25:26c36505b2a3454201dcc8370de0ee07
+#EXTINF:-1 tvg-logo="-" group-title="arg",C5N
+https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
 
 
 
