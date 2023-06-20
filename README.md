@@ -857,3 +857,13 @@ https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg",Win Sports
 https://1250-vos.dtvott.com/DASH/manifest.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa8796510bf0357d9fc39bd81bbfca18:ea7138d07009dff7ebe6e2fedcebf660
+#EXTINF:-1 tvg-logo="-" group-title="arg",DirectvSports ch
+https://1058-vos.dtvott.com/DASH/manifest.mpd
