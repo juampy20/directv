@@ -785,3 +785,18 @@ https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d156b089a39b5e81be1ea8a6d1c9fc4e:015d0fec74f71ff77114bb439ef07a8b
 #EXTINF:-1 tvg-logo="-" group-title="arg",DW
 https://dtvott-abc.akamaized.net/dash_live_1001/manifest.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3303b4c6982f381ea9e309009fbb3f27:a7fd49808f890c2500bf2180aaf42307
+#EXTINF:-1 tvg-logo="-" group-title="arg",Gol tv
+https://1134-vos.dtvott.com/DASH/manifest.mpd
+
+
+
+
