@@ -797,6 +797,14 @@ https://dtvott-abc.akamaized.net/dash_live_1001/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg",Gol tv
 https://1134-vos.dtvott.com/DASH/manifest.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=590eab6833d435ff94cc9a5af93a4319:5e73fb08358db634dfb919d853cec46f
+#EXTINF:-1 tvg-logo="-" group-title="arg",Caracol tv
+https://dtvott-akaws.akamaized.net/live_1035/DASH/manifest.mpd
 
 
