@@ -766,4 +766,13 @@ https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
 https://dtvott-abc.akamaized.net/dash_live_1172/manifest.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b6e2119fa3a548da0bc8a7b206f5174:53981eea62b6a6da1a3a4958dc57436c
+#EXTINF:-1 tvg-logo="-" group-title="arg",encuentro
+https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd
 
