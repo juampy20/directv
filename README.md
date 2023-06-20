@@ -847,5 +847,13 @@ https://1231-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg",TNT sports 2
 https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f195c02916303b2691090ca545933afb:774d7a8fae5e6bde902c5b33bc33ce01
+#EXTINF:-1 tvg-logo="-" group-title="arg",Win Sports
+https://1250-vos.dtvott.com/DASH/manifest.mpd
 
