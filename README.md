@@ -691,3 +691,38 @@ https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg",star chanell
 https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=afb378efc4c937999a9237a734f9a67a:3b6ca02e5b0589cab0dd32db45308884
+#EXTINF:-1 tvg-logo="-" group-title="arg",gourmet
+https://1093-vos.dtvott.com/DASH/manifest.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=756032fd73ed536f93a6d187a7956999:d1ab5f25f977c0dc01785b44d91cdb9c
+#EXTINF:-1 tvg-logo="-" group-title="arg",food network
+https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
