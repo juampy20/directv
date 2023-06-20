@@ -744,10 +744,26 @@ https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="arg",film arts
 https://1111-vos.dtvott.com/DASH/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58708981c1c25ae9b5febda16ec39c5b:8b3855c63f8567b9d3f5465dc0ad6056
+#EXTINF:-1 tvg-logo="-" group-title="arg",cronica tv
+https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
 
 
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8068d32952ca54aeaa9790d313e3e84c:c9e3b5f04de092fa0ae29137f0e92e3c
+#EXTINF:-1 tvg-logo="-" group-title="arg",net tv
+https://dtvott-abc.akamaized.net/dash_live_1172/manifest.mpd
 
 
 
