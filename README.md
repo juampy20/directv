@@ -8,7 +8,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d83e2e0cb9735bea9fc9f0b90cea1e14:4125e40800a08bbc66cf27756a5ab283
-#EXTINF:-1 tvg-logo="-" group-title="arg", Telefe
+#EXTINF:-1 tvg-logo="https://telegratis.net/img/telefe.png" group-title="arg", Telefe
 https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -104,7 +104,7 @@ https://1231-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c31b0347138f5fa49a2886c34b7a9325:a28265bfc14a10d6dbd6a85516cbde18
-#EXTINF:-1 tvg-logo="-" group-title="arg", cinema
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/005/188/413/small/cinema-logo-template-isolated-on-white-background-vector.jpg" group-title="arg", cinema
 https://dtvott-cbc.akamaized.net/dash_live_1020/manifest.mpd
 
 
@@ -115,7 +115,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1020/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4c55ed8f82e5924b22d00ce154ae849:fdea8ee702bd5262cb6a2901dc37e7b0
-#EXTINF:-1 tvg-logo="-" group-title="arg", tele vivo
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/becb444f9d75fcc325cb6ea913f0c67a.webp" group-title="arg", tele vivo
 https://dtvott-abc.akamaized.net/dash_live_1215/manifest.mpd
 
 
@@ -147,7 +147,7 @@ https://dtvott-abc.akamaized.net/dash_live_1065/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=870e324e46175362b1de8a492cbdb383:684e104109841eb5f7cd645efc977011
-#EXTINF:-1 tvg-logo="-" group-title="arg", quiero musica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rwr7nM0.jpg" group-title="arg", quiero musica
 https://dtvott-abc.akamaized.net/dash_live_1183/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -157,7 +157,7 @@ https://dtvott-abc.akamaized.net/dash_live_1183/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06545fb66e7d5ea38362bc2cefb0cace:4f437f342ea9f6eb1169b5ca46261655
-#EXTINF:-1 tvg-logo="-" group-title="arg", glitz
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TQpiXLHajDkKZuvJFxsTx3ehF7Qfab7QD_b5DYNCYzl6xtDGWcSwR3VzAhP_FLtn0g0&usqp=CAU" group-title="arg", glitz
 https://dtvott-cbc.akamaized.net/dash_live_1132/manifest.mpd
 
 
